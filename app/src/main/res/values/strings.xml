@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Таблица товаров</string>
+    <string name="qr_scan">qr scan</string>
+    <string name="receipt_month">Чеки за месяц</string>
+    <string name="all_receipt">Все чеки</string>
+    <string name="settings">Настройки</string>
+    <string name="scan_barcode">Поднесите QR код</string>
+    <string name="get_receipt_data">Получить данные чека</string>
+    <string name="loading">Загрузка</string>
+    <string name="receipt_get_data">Получение данных о чеке</string>
+    <string name="receipt_save_data">Сохранение данных о чеке</string>
+    <string name="receipt_get_data_error">Ошибка</string>
+    <string name="receipt_target">Назначение чека</string>
+    <string name="tv_sum_text">Сумма</string>
+    <string name="tv_text_count">Кол-во</string>
+    <string name="more">Больше</string>
+    <string name="delete">Удалить</string>
+    <string name="report">Отчет</string>
+</resources>

@@ -1,0 +1,181 @@
+{
+  "code":1,
+  "data":{
+    "json":{
+      "code":3,
+      "user":"ООО \"Лента\"",
+      "items":[
+        {
+          "nds":2,
+          "sum":10979,
+          "name":"Яблоки Гольден вес 1кг",
+          "price":8999,
+          "ndsSum":998,
+          "quantity":1.22,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":1,
+          "sum":13061,
+          "name":"Бананы вес 1кг",
+          "price":10109,
+          "ndsSum":2177,
+          "quantity":1.292,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":2,
+          "sum":12558,
+          "name":"Картофель белый мытый вес",
+          "price":7999,
+          "ndsSum":1142,
+          "quantity":1.57,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":2,
+          "sum":7999,
+          "name":"Грибы ЛЕНТА GREEN шампиньоны 250г",
+          "price":7999,
+          "ndsSum":727,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":2,
+          "sum":14796,
+          "name":"Яйцо куриное 365 ДНЕЙ С1 10шт",
+          "price":7398,
+          "ndsSum":1345,
+          "quantity":2,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":2,
+          "sum":1499,
+          "name":"Хлеб Дарницкий 300г",
+          "price":1499,
+          "ndsSum":136,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":1,
+          "sum":16999,
+          "name":"Восточные сладости ЛЕНТА Козинаки 360г",
+          "price":16999,
+          "ndsSum":2833,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":1,
+          "sum":12499,
+          "name":"Маслины IBERIKA б\/к 300г",
+          "price":12499,
+          "ndsSum":2083,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":2,
+          "sum":19998,
+          "name":"Сосиски МК ВЕЛИКОЛУКСКИЙ Сливоч ГОСТ330г",
+          "price":9999,
+          "ndsSum":1818,
+          "quantity":2,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":2,
+          "sum":6399,
+          "name":"Кефир БЕЖИН ЛУГ 3,2% тетрапак 1000г",
+          "price":6399,
+          "ndsSum":582,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":1,
+          "sum":7269,
+          "name":"Шок тем БАБАЕВСКИЙ минд.со вк коф.лик100",
+          "price":7269,
+          "ndsSum":1212,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":2,
+          "sum":7299,
+          "name":"Сыр PRESIDENT пл Мастер бут слив 40% 150",
+          "price":7299,
+          "ndsSum":664,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":1,
+          "sum":8499,
+          "name":"Молодая кукуруза BONDUELLE 212мл",
+          "price":8499,
+          "ndsSum":1417,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        },
+        {
+          "nds":1,
+          "sum":8149,
+          "name":"Кукуруза BONDUELLE 212мл",
+          "price":8149,
+          "ndsSum":1358,
+          "quantity":1,
+          "paymentType":4,
+          "productType":1
+        }
+      ],
+      "nds10":7412,
+      "nds18":11080,
+      "fnsUrl":"nalog.gov.ru",
+      "userInn":"7814148471  ",
+      "dateTime":"2022-03-24T19:26:00",
+      "kktRegId":"0000547821015904    ",
+      "operator":"Оператор клиентского сервиса Хлуденцова",
+      "totalSum":148003,
+      "creditSum":0,
+      "fiscalSign":3494376382,
+      "prepaidSum":0,
+      "properties":{
+        "propertyName":"касса №",
+        "propertyValue":"12"
+      },
+      "retailPlace":"ТК Лента-161",
+      "shiftNumber":56,
+      "cashTotalSum":0,
+      "provisionSum":0,
+      "taxationType":1,
+      "ecashTotalSum":148003,
+      "operationType":1,
+      "requestNumber":282,
+      "sellerAddress":"check@taxcom.ru",
+      "fiscalDriveNumber":"9960440301608557",
+      "retailPlaceAddress":"Россия, 248009, Калужская обл., г. Калуга, ул. Грабцевское шоссе, д. 59",
+      "appliedTaxationType":1,
+      "buyerPhoneOrAddress":"karandalli35@gmail.com",
+      "fiscalDocumentNumber":13278,
+      "fiscalDocumentFormatVer":4
+    }
+  }
+}
